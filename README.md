@@ -31,3 +31,7 @@
 > sum(P) = (sum(nums) + S) / 2
 >
 > 问题转换为能组合成容量为sum(P)的方式有多少种
+
+## [495](https://leetcode-cn.com/problems/teemo-attacking/) 1.23[中等]
+
+英雄联盟伤害计算相关的问题，只要玩过游戏的应该都很容易解决。
