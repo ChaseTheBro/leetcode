@@ -35,3 +35,7 @@
 ## [495](https://leetcode-cn.com/problems/teemo-attacking/) 1.23[中等]
 
 英雄联盟伤害计算相关的问题，只要玩过游戏的应该都很容易解决。
+
+## [496](https://leetcode-cn.com/problems/next-greater-element-i/) 1.26[简单]
+
+直接遍历就可以得到结果，非常简单
