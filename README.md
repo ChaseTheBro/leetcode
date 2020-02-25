@@ -63,3 +63,7 @@
 # [535](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/) 2/25[中等]
 
 我TM直接就这？不过正常做应该是调一下base64之类的编码算法吧。
+
+# [771](https://leetcode-cn.com/problems/jewels-and-stones/) 2/25[简单]
+
+直接用hash map求解，非常简单的一道题。
