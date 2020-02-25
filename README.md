@@ -59,3 +59,7 @@
 # [1](https://leetcode-cn.com/problems/two-sum/) 2/25[简单]
 
 这道题首先容易想到一个时间复杂度为O(N^2)的暴力算法，然后可以想到使用一个hash table来用空间换时间，将查找的时间缩短到O(1)，节约了查找的时间。
+
+# [535](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/) 2/25[中等]
+
+我TM直接就这？不过正常做应该是调一下base64之类的编码算法吧。
