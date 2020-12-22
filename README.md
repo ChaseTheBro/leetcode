@@ -68,6 +68,6 @@
 
 直接用hash table求解，非常简单的一道题。
 
-## [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) 3[中等]
+## [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) 3/1[中等]
 
 经典问题，可以利用一个hash table保存每个字符出现的最近的位置，然后维护一个pos变量表示当前无重复的数的开头位置，不断的更新最大长度可以得到解答。
